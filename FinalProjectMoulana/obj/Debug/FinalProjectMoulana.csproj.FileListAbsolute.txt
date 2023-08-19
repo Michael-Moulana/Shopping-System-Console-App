@@ -1,0 +1,14 @@
+D:\My Files\PROGRAMMING\Visual Studio C# projects\FinalProjectMoulana\FinalProjectMoulana\obj\Debug\FinalProjectMoulana.csprojAssemblyReference.cache
+D:\My Files\PROGRAMMING\Visual Studio C# projects\FinalProjectMoulana\FinalProjectMoulana\obj\Debug\FinalProjectMoulana.csproj.CoreCompileInputs.cache
+D:\My Files\PROGRAMMING\Visual Studio C# projects\FinalProjectMoulana\FinalProjectMoulana\bin\Debug\FinalProjectMoulana.exe.config
+D:\My Files\PROGRAMMING\Visual Studio C# projects\FinalProjectMoulana\FinalProjectMoulana\bin\Debug\FinalProjectMoulana.exe
+D:\My Files\PROGRAMMING\Visual Studio C# projects\FinalProjectMoulana\FinalProjectMoulana\bin\Debug\FinalProjectMoulana.pdb
+D:\My Files\PROGRAMMING\Visual Studio C# projects\FinalProjectMoulana\FinalProjectMoulana\obj\Debug\FinalProjectMoulana.exe
+D:\My Files\PROGRAMMING\Visual Studio C# projects\FinalProjectMoulana\FinalProjectMoulana\obj\Debug\FinalProjectMoulana.pdb
+C:\Users\Michael\Desktop\FinalProjectMoulana\FinalProjectMoulana\bin\Debug\FinalProjectMoulana.exe.config
+C:\Users\Michael\Desktop\FinalProjectMoulana\FinalProjectMoulana\bin\Debug\FinalProjectMoulana.exe
+C:\Users\Michael\Desktop\FinalProjectMoulana\FinalProjectMoulana\bin\Debug\FinalProjectMoulana.pdb
+C:\Users\Michael\Desktop\FinalProjectMoulana\FinalProjectMoulana\obj\Debug\FinalProjectMoulana.csprojAssemblyReference.cache
+C:\Users\Michael\Desktop\FinalProjectMoulana\FinalProjectMoulana\obj\Debug\FinalProjectMoulana.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Desktop\FinalProjectMoulana\FinalProjectMoulana\obj\Debug\FinalProjectMoulana.exe
+C:\Users\Michael\Desktop\FinalProjectMoulana\FinalProjectMoulana\obj\Debug\FinalProjectMoulana.pdb
